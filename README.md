@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans,
+Leo here and I will be learing Data Science from the scratch. Please wich me luck.
+Thank you.
